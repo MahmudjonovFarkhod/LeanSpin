@@ -132,4 +132,12 @@ body .section-1 main footer .right {
       -ms-flex-direction: column;
           flex-direction: column;
 }
+
+body .section-1 main footer .right b {
+  color: #FFFFFF;
+}
+
+body .section-1 main footer .right p {
+  color: #FFFFFF;
+}
 /*# sourceMappingURL=style.css.map */
