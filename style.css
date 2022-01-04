@@ -55,4 +55,9 @@ body .section-1 main {
   width: 100%;
   height: calc(100vh - 20px);
 }
+
+body .section-1 main img {
+  position: relative;
+  display: block;
+}
 /*# sourceMappingURL=style.css.map */
