@@ -191,6 +191,7 @@ body .section-2 .container .first p {
   font-weight: normal;
   font-size: 16px;
   line-height: 21px;
+  color: #000000;
 }
 
 body .section-2 .container .second {
@@ -215,5 +216,32 @@ body .section-2 .container .second p {
   font-weight: normal;
   font-size: 16px;
   line-height: 21px;
+  color: #000000;
+}
+
+body .section-2 .container .third {
+  width: 100%;
+  height: 56px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  text-align: center;
+  margin-bottom: 83px;
+}
+
+body .section-2 .container .third p {
+  width: 335px;
+  height: 22px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 21px;
+  color: #000000;
 }
 /*# sourceMappingURL=style.css.map */
