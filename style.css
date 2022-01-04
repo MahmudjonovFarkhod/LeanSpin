@@ -151,4 +151,15 @@ body .section-2 {
   height: 100%;
   padding: 86px 38px 180px 87px;
 }
+
+body .section-2 div p {
+  width: 100%;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 34px;
+  letter-spacing: 0.44px;
+  text-transform: uppercase;
+  color: #E8244F;
+}
 /*# sourceMappingURL=style.css.map */
