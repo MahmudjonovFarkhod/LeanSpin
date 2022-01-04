@@ -118,4 +118,8 @@ body .section-1 main footer .left {
       -ms-flex-direction: column;
           flex-direction: column;
 }
+
+body .section-1 main footer .left p {
+  color: #FFFFFF;
+}
 /*# sourceMappingURL=style.css.map */
