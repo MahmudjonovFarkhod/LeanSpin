@@ -82,7 +82,7 @@ body{
 
             footer{
                 width: 100%;
-                height: auto;
+                height: 54px;
                 padding-top: 500px;
                 display: flex;
                 align-items: center;
@@ -90,13 +90,18 @@ body{
 
                 .left{
                     width: 509px;
-                    height: 54px;
                     display: flex;
                     flex-direction: column;
 
                     p{
                         color: #FFFFFF;
                     }
+                }
+
+                .right{
+                    width: 173px;
+                    display: flex;
+                    flex-direction: column;
                 }
             }
 
