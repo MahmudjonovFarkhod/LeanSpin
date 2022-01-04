@@ -152,7 +152,7 @@ body .section-2 {
   padding: 86px 38px 180px 87px;
 }
 
-body .section-2 p {
+body .section-2 .outside p {
   width: 100%;
   font-style: normal;
   font-weight: normal;
