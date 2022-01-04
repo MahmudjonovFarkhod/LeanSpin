@@ -75,4 +75,16 @@ body .section-1 main .div-1 h1 {
   padding-left: 200px;
   z-index: 1;
 }
+
+body .section-1 main .div-2 h1 {
+  position: absolute;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 114px;
+  line-height: 125px;
+  color: #FFFFFF;
+  padding-top: 120px;
+  padding-left: 200px;
+  z-index: 1;
+}
 /*# sourceMappingURL=style.css.map */
