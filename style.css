@@ -237,12 +237,13 @@ body .section-2 .container .third {
 }
 
 body .section-2 .container .third p {
-  width: 335px;
+  width: 440px;
   height: 22px;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 21px;
   color: #000000;
+  padding-left: 120px;
 }
 /*# sourceMappingURL=style.css.map */
