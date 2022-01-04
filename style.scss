@@ -138,5 +138,17 @@ body{
             color: #E8244F;
             margin-bottom: 89px;
         }
+
+        .container{
+            width: 100%;
+
+            .first{
+                width: 100%;
+                height: 56px;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+            }
+        }
     }
 }
