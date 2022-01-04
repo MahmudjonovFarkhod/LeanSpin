@@ -81,7 +81,41 @@ body{
                 display: flex;
                 align-items: center;
                 justify-content: space-between;
-                background-color: aqua;
+
+                .left{
+                    width: 509px;
+                    height: 54px;
+
+                    p{
+                        font-style: normal;
+                        font-weight: normal;
+                        font-size: 20px;
+                        line-height: 27px;
+                        color: #FFFFFF;
+                    }
+                }
+
+                .right{
+                    width: 173px;
+                    height: 54px;
+
+                    b{
+                        font-style: normal;
+                        font-weight: normal;
+                        font-size: 20px;
+                        line-height: 22px;
+                        color: #FFFFFF;
+                    }
+
+                    p{
+                        font-style: normal;
+                        font-weight: normal;
+                        font-size: 11px;
+                        line-height: 16px;
+                        color: rgba(255, 255, 255, 0.4);
+
+                    }
+                }
             }
         }
     }
