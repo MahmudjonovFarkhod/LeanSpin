@@ -65,6 +65,7 @@ body .section-1 main img {
 }
 
 body .section-1 main div h1 {
+  position: absolute;
   font-style: normal;
   font-weight: normal;
   font-size: 114px;
