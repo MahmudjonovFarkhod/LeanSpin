@@ -50,4 +50,9 @@ body .section-1 header nav p {
   letter-spacing: 1px;
   color: #FFFF;
 }
+
+body .section-1 main {
+  width: 100%;
+  height: calc(100vh - 20px);
+}
 /*# sourceMappingURL=style.css.map */
