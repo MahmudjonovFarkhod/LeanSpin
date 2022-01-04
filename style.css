@@ -124,6 +124,7 @@ body .section-1 main footer .left p {
 
 body .section-1 main footer .right {
   width: 173px;
+  height: 54px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
