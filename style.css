@@ -184,6 +184,14 @@ body .section-2 .container .first {
   margin-bottom: 83px;
 }
 
+body .section-2 .container .first h1 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 46px;
+  line-height: 55px;
+  color: #000000;
+}
+
 body .section-2 .container .first p {
   width: 283px;
   height: 22px;
@@ -208,6 +216,14 @@ body .section-2 .container .second {
           justify-content: space-between;
   text-align: center;
   margin-bottom: 83px;
+}
+
+body .section-2 .container .second h1 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 46px;
+  line-height: 55px;
+  color: #000000;
 }
 
 body .section-2 .container .second p {
@@ -237,6 +253,14 @@ body .section-2 .container .third {
   margin-bottom: 83px;
 }
 
+body .section-2 .container .third h1 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 46px;
+  line-height: 55px;
+  color: #000000;
+}
+
 body .section-2 .container .third p {
   width: 440px;
   height: 22px;
@@ -261,6 +285,14 @@ body .section-2 .container .fourth {
       -ms-flex-pack: justify;
           justify-content: space-between;
   text-align: center;
+}
+
+body .section-2 .container .fourth h1 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 46px;
+  line-height: 55px;
+  color: #000000;
 }
 
 body .section-2 .container .fourth p {
