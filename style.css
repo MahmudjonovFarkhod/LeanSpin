@@ -57,7 +57,10 @@ body .section-1 main {
 }
 
 body .section-1 main img {
-  position: relative;
-  display: block;
+  position: absolute;
+  width: 533px;
+  height: 533px;
+  left: calc(50% - 533px/2 + 0.5px);
+  top: 94px;
 }
 /*# sourceMappingURL=style.css.map */
