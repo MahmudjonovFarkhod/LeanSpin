@@ -100,38 +100,4 @@ body .section-1 main .footer {
       -ms-flex-pack: justify;
           justify-content: space-between;
 }
-
-body .section-1 main .footer .left {
-  width: 509px;
-  height: 54px;
-}
-
-body .section-1 main .footer .left p {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 20px;
-  line-height: 27px;
-  color: #FFFFFF;
-}
-
-body .section-1 main .footer .right {
-  width: 173px;
-  height: 54px;
-}
-
-body .section-1 main .footer .right b {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 20px;
-  line-height: 22px;
-  color: #FFFFFF;
-}
-
-body .section-1 main .footer .right p {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 11px;
-  line-height: 16px;
-  color: rgba(255, 255, 255, 0.4);
-}
 /*# sourceMappingURL=style.css.map */
