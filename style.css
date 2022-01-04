@@ -139,6 +139,10 @@ body .section-1 main footer .right b {
 }
 
 body .section-1 main footer .right p {
-  color: #FFFFFF;
+  -style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 16px;
+  color: rgba(255, 255, 255, 0.4);
 }
 /*# sourceMappingURL=style.css.map */
