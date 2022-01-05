@@ -384,4 +384,13 @@ body .section-3 .step-2 .right {
   display: flex;
   gap: 30px;
 }
+
+body .section-3 .step-2 .right p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 16px;
+  color: #000000;
+}
 /*# sourceMappingURL=style.css.map */
