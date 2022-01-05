@@ -325,4 +325,11 @@ body .section-3 .step-1 {
 body .section-3 .step-1 .right {
   width: 294px;
 }
+
+body .section-3 .step-1 .right p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 16px;
+}
 /*# sourceMappingURL=style.css.map */
