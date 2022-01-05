@@ -437,6 +437,7 @@ body .section-3 .step-3 .box {
       -ms-flex-align: center;
           align-items: center;
   gap: 30px;
+  margin-top: 43px;
 }
 
 body .section-3 .step-3 .box .fourth-person p {
