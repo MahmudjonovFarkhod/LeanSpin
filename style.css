@@ -366,5 +366,9 @@ body .section-3 .step-2 .left {
 
 body .section-3 .step-2 .right {
   width: 618px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 30px;
 }
 /*# sourceMappingURL=style.css.map */
