@@ -427,8 +427,14 @@ body .section-3 .step-2 .right p {
 body .section-3 .step-3 {
   width: 100%;
   height: 340px;
+}
+
+body .section-3 .step-3 .box {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 /*# sourceMappingURL=style.css.map */
