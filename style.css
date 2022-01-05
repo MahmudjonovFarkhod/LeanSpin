@@ -369,8 +369,9 @@ body .section-3 .step-2 .left {
   height: 133px;
 }
 
-body .section-3 .step-2 .left p {
+body .section-3 .step-2 .left .first-p p {
   width: 569;
+  height: 47px;
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
