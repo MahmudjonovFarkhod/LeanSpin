@@ -368,6 +368,16 @@ body{
             .box{
                 display: flex;
                 align-items: center;
+
+                .fourth-person p{
+                    width: 263px;
+                    height: 33px;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 11px;
+                    line-height: 16px;
+                    color: #000000;
+                }
             }
 
         }
