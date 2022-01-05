@@ -367,6 +367,13 @@ body .section-3 .step-2 {
 body .section-3 .step-2 .left {
   width: 569px;
   height: 133px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
 }
 
 body .section-3 .step-2 .left .first-p p {

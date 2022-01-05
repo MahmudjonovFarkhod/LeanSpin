@@ -310,6 +310,8 @@ body{
             .left{
                 width: 569px;
                 height: 133px;
+                display: flex;
+                flex-direction: column;
 
                 .first-p p{
                     width: 569;
