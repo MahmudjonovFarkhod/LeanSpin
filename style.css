@@ -457,4 +457,14 @@ body .section-3 .step-3 .box .fifth-person p {
   line-height: 16px;
   color: #000000;
 }
+
+body .section-3 .step-3 .box .sixth-person p {
+  width: 267px;
+  height: 33px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 16px;
+  color: #000000;
+}
 /*# sourceMappingURL=style.css.map */
