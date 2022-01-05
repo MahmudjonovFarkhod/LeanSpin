@@ -322,6 +322,19 @@ body .section-3 .step-1 {
           justify-content: space-between;
 }
 
+body .section-3 .step-1 .left {
+  width: 576px;
+  height: 244px;
+}
+
+body .section-3 .step-1 .left h1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 114px;
+  line-height: 122px;
+}
+
 body .section-3 .step-1 .right {
   width: 294px;
 }

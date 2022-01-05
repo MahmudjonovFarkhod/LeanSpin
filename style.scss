@@ -270,6 +270,19 @@ body{
             display: flex;
             justify-content: space-between;
 
+            .left{
+                width: 576px;
+                height: 244px;
+
+                h1{
+                    font-family: Roboto;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 114px;
+                    line-height: 122px;
+                }
+            }
+
             .right{
                 width: 294px;
 
