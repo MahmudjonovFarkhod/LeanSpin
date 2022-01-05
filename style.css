@@ -365,11 +365,12 @@ body .section-3 .step-2 {
 }
 
 body .section-3 .step-2 .left {
-  width: 567px;
+  width: 569px;
   height: 133px;
 }
 
 body .section-3 .step-2 .left p {
+  width: 569;
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
