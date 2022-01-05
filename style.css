@@ -361,6 +361,7 @@ body .section-3 .step-2 {
       -ms-flex-align: center;
           align-items: center;
   margin-top: 43px;
+  padding: 0 20px;
 }
 
 body .section-3 .step-2 .left {
