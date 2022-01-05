@@ -362,6 +362,7 @@ body .section-3 .step-2 {
           align-items: center;
   margin-top: 43px;
   padding: 0 20px;
+  gap: 20px;
 }
 
 body .section-3 .step-2 .left {
