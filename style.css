@@ -379,6 +379,16 @@ body .section-3 .step-2 .left .first-p p {
   color: #000000;
 }
 
+body .section-3 .step-2 .left .secon-p p {
+  width: 567px;
+  height: 71px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  color: #000000;
+}
+
 body .section-3 .step-2 .right {
   width: 618px;
   display: -webkit-box;
