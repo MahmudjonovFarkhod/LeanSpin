@@ -321,4 +321,8 @@ body .section-3 .step-1 {
       -ms-flex-pack: justify;
           justify-content: space-between;
 }
+
+body .section-3 .step-1 .right {
+  width: 294px;
+}
 /*# sourceMappingURL=style.css.map */
