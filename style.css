@@ -376,7 +376,7 @@ body .section-3 .step-2 .left {
 }
 
 body .section-3 .step-2 .left .first-p p {
-  width: 569;
+  width: 569px;
   height: 47px;
   font-style: normal;
   font-weight: normal;
@@ -384,6 +384,15 @@ body .section-3 .step-2 .left .first-p p {
   line-height: 23px;
   color: #000000;
   margin-bottom: 15px;
+}
+
+body .section-3 .step-2 .left .second-p p {
+  width: 567px;
+  height: 71px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
 }
 
 body .section-3 .step-2 .left .secon-p p {

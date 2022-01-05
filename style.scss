@@ -313,7 +313,7 @@ body{
                 flex-direction: column;
 
                 .first-p p{
-                    width: 569;
+                    width: 569px;
                     height: 47px;
                     font-style: normal;
                     font-weight: normal;
@@ -321,6 +321,15 @@ body{
                     line-height: 23px;
                     color: #000000;
                     margin-bottom: 15px;
+                }
+
+                .second-p p{
+                    width: 567px;
+                    height: 71px;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 18px;    
+                    line-height: 23px;
                 }
 
                 .secon-p p{
