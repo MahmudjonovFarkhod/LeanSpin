@@ -477,5 +477,125 @@ body .section-3 .step-3 .box .sixth-person p {
     height: 50vh;
     background-color: aqua;
   }
+  body .section-1 {
+    width: 100%;
+    height: 100vh;
+    padding: 34px 55px;
+    background: url(/Rasmlar/Section-1-background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  body .section-1 header {
+    width: 100%;
+    height: 10px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+  body .section-1 header nav {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    gap: 20px;
+  }
+  body .section-1 header nav a {
+    text-decoration: none;
+  }
+  body .section-1 header nav p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 7px;
+    line-height: 7px;
+    letter-spacing: 0.5px;
+    color: #FFFF;
+  }
+  body .section-1 main {
+    width: 100%;
+    height: calc(100vh - 10px);
+  }
+  body .section-1 main img {
+    position: absolute;
+    width: 333px;
+    height: 333px;
+    left: calc(50% - 333px/2 + 0.5px);
+    top: 15px;
+  }
+  body .section-1 main .div-1 h1 {
+    position: absolute;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 60px;
+    color: #FFFFFF;
+    padding-top: 45px;
+    padding-left: 100px;
+    z-index: 1;
+  }
+  body .section-1 main .div-2 h1 {
+    position: absolute;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 125px;
+    color: #FFFFFF;
+    padding-top: 110px;
+    padding-left: 190px;
+    z-index: 1;
+  }
+  body .section-1 main footer {
+    width: 100%;
+    height: 27px;
+    padding-top: 250px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+  body .section-1 main footer .left {
+    width: 309px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  body .section-1 main footer .left p {
+    color: #FFFFFF;
+  }
+  body .section-1 main footer .right {
+    width: 100px;
+    height: 27px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  body .section-1 main footer .right b {
+    color: #FFFFFF;
+  }
+  body .section-1 main footer .right p {
+    -style: normal;
+    font-weight: normal;
+    font-size: 6px;
+    line-height: 8px;
+    color: rgba(255, 255, 255, 0.4);
+  }
 }
 /*# sourceMappingURL=style.css.map */
